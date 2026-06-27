@@ -14,7 +14,7 @@ ROBOTIS OMX-AI 로봇 팔에서 ACT(Action Chunking with Transformers)를 이용
 4. [학습](#4-학습)
 5. [실험 결과](#5-실험-결과)
 6. [주요 관찰 사항](#6-주요-관찰-사항)
-7. [Troubleshooting](#7-troubleshooting)
+7. [문제 해결](#7-문제-해결)
 8. [고찰](#8-고찰)
 9. [참고 자료](#9-참고-자료)
 
@@ -211,7 +211,7 @@ https://github.com/user-attachments/assets/5f69d5f6-e097-44fb-901f-c06e884674b9
 
 ---
 
-## 7. Troubleshooting
+## 7. 문제 해결
 
 | 문제 | 원인 | 해결 |
 |---|---|---|
